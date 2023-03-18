@@ -158,3 +158,8 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
+
+std2metric/docs/_build/
+std2metric/docs/_static/
+std2metric/docs/modules.rst
+std2metric/docs/std2metric.rst
